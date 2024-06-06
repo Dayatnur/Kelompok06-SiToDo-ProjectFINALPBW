@@ -58,6 +58,6 @@ Ketujuh
 
     php artisan serve
 
-Kelapan
+Kedelapan
 
     npm run dev
